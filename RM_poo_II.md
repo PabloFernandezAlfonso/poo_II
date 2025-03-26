@@ -1,3 +1,3 @@
 #Segunda Rama
-#Uso
+##Uso
 Esta rama se utilizó para registrar el progreso del dia del examen.
