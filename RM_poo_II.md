@@ -1,3 +1,3 @@
-#Hola
-##Hola2
-###Hola3
+#Segunda Rama
+#Uso
+Esta rama se utilizó para registrar el progreso del dia del examen.
