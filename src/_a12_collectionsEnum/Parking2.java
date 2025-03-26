@@ -168,9 +168,10 @@ public class Parking2 {
 			int veces = lista.getValue();
 			String vecesTexto = (veces == 1) ? "vez" : "veces";
 			System.out
-					.println("El coche de color " + color.getNombre() + " se repite " + veces + " " + vecesTexto + ".");
+					.println("El coche de color " + color.getNombre() + " se repite " + veces + ".");
 		}
 
+		
 		System.out.println("Total coches: " + listaCoches.size());
 	}
 

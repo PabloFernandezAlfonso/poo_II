@@ -17,7 +17,7 @@ public enum Color {
 		this.color = nombre;
 	}
 	
-	public static Color aleatorio() {
+	public static Color  aleatorio() {
 		return Color.values() [random.nextInt(Color.values().length)];
 	}
 	
